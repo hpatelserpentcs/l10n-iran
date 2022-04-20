@@ -2,7 +2,7 @@
 
 {
     "name": "Iran - Base",
-    "version": "14.0.3.0.0",
+    "version": "15.0.1.0.0",
     "author": "Fadoo, Odoo Community Association (OCA)",
     "maintainer": ["saeed-raesi"],
     "website": "https://github.com/OCA/l10n-iran",
